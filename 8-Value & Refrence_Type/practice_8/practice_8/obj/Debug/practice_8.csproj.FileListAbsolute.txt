@@ -1,0 +1,8 @@
+D:\C#\8-Value & Refrence_Type\practice_8\practice_8\obj\Debug\practice_8.csproj.AssemblyReference.cache
+D:\C#\8-Value & Refrence_Type\practice_8\practice_8\obj\Debug\practice_8.csproj.SuggestedBindingRedirects.cache
+D:\C#\8-Value & Refrence_Type\practice_8\practice_8\obj\Debug\practice_8.csproj.CoreCompileInputs.cache
+D:\C#\8-Value & Refrence_Type\practice_8\practice_8\bin\Debug\practice_8.exe.config
+D:\C#\8-Value & Refrence_Type\practice_8\practice_8\bin\Debug\practice_8.exe
+D:\C#\8-Value & Refrence_Type\practice_8\practice_8\bin\Debug\practice_8.pdb
+D:\C#\8-Value & Refrence_Type\practice_8\practice_8\obj\Debug\practice_8.exe
+D:\C#\8-Value & Refrence_Type\practice_8\practice_8\obj\Debug\practice_8.pdb
